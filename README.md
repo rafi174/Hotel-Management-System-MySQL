@@ -29,5 +29,7 @@ This project is a Hotel Management Database System developed using MySQL Workben
 
 ## Author
 **Shaik Mohammad Rafi**
+
 B.Tech Student | Aspiring Software Developer
+
 GitHub: https://github.com/rafi174
