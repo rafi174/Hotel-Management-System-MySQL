@@ -28,4 +28,6 @@ This project is a Hotel Management Database System developed using MySQL Workben
 4. Run the SQL queries included in the script.
 
 ## Author
-Your Name
+**Shaik Mohammad Rafi**
+B.Tech Student | Aspiring Software Developer
+GitHub: https://github.com/rafi174
